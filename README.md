@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+this project connect to websocket binance with react and with using react custom hook and partial update show pairs cards and updated details of pairs in real time
 ## Available Scripts
 
 In the project directory, you can run:
