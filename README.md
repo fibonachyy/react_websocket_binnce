@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React, websocket, update pair details with binnce socket.
 
 this project connect to websocket binance with react and with using react custom hook and partial update show pairs cards and updated details of pairs in real time
 ## Available Scripts
